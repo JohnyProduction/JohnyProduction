@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnyProduction
 - 👀 I’m interested in programming, sports and photography
 - 🌱 I’m currently learning Java
-- 📫 How to reach me -> kontakt@pjworks.pl
+- 📫 How to reach me -> pjan319@gmail.com
 
 <!---
 JohnyProduction/JohnyProduction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
