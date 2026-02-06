@@ -86,18 +86,8 @@ Engineer's Degree • Computer Science in Computer Engineering • **GPA: 4.5/5.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnyProduction&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnyProduction&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyProduction&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Langs" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnyProduction&show_icons=true&theme=react&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnyProduction&layout=compact&theme=react&hide_border=true&langs_count=6)
 
 ---
 
